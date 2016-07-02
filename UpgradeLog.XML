@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ardebil_DCS">
+</Property><Property Name="Solution File" Value="E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Ardebil_DCS.sln">
+</Property><Property Name="User Options File" Value="E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Ardebil_DCS.suo">
+</Property><Property Name="Date" Value="Tuesday, January 31, 2012">
+</Property><Property Name="Time" Value="12:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ardebil_DCS.sln" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ardebil_DCS.suo" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS.suo">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\Ardebil_DCS.vbproj" Description="Project file successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\Ardebil_DCS.vbproj">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\Ardebil_DCS.vbproj.user" Description="Project user file successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\Ardebil_DCS.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\clsConnection.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\clsConnection.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\clsDataBase.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\clsDataBase.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\clsPsychrometrics.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\clsPsychrometrics.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\clsSensor.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\clsSensor.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\clsWeatherStation.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\clsWeatherStation.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\ICSDBDataSet.Designer.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\ICSDBDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\Application.Designer.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\DCSMainService.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\DCSMainService.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\DCSMainService.Designer.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\DCSMainService.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\TCPServer.vb" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\TCPServer.vb">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\app.config" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\app.config">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\ICSDBDataSet.xsc" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\ICSDBDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\ICSDBDataSet.xsd" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\ICSDBDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\ICSDBDataSet.xss" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\ICSDBDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\Application.myapp" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\Settings.settings" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\My Project\Resources.resx" Description="File successfully backed up as E:\TabatabaeeWork\Ardebil\DCS\Ardebil_DCS\Backup\Ardebil_DCS\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\Ardebil_DCS.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ardebil_DCS" Source="Ardebil_DCS\Ardebil_DCS.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ardebil_DCS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ardebil_DCS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ardebil_DCS" Source="Ardebil_DCS\Ardebil_DCS.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
